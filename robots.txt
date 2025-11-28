@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://accasadof71.github.io/accasadof71.github.io/sitemap.xml
+Sitemap: https://accasadof71.github.io//sitemap.xml
